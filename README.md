@@ -1,4 +1,6 @@
 thasos-info
 ===========
 
-my website
+www.thasos-info.com
+this is my website
+
